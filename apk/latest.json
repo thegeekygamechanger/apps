@@ -1,10 +1,10 @@
 {
-  "version": "3.0.3+33",
-  "latestVersion": "3.0.3+33",
-  "updateUrl": "https://raw.githubusercontent.com/thegeekygamechanger/apps/main/apk/app-release-3.0.3%2B33.apk",
-  "releaseNotes": "New build available: v3.0.3+33. Persisted study hours and dashboard fixes.",
+  "version": "3.0.4+34",
+  "latestVersion": "3.0.4+34",
+  "updateUrl": "https://raw.githubusercontent.com/thegeekygamechanger/apps/main/apk/app-release-3.0.4%2B34.apk",
+  "releaseNotes": "New build available: v3.0.4+34. Persisted study hours and dashboard fixes.",
   "forceUpdate": false,
   "channel": "stable",
-  "publishedAt": "2026-03-13T20:34:49.982Z",
-  "apkKey": "app-release-3.0.3+33.apk"
+  "publishedAt": "2026-03-13T20:57:04.281Z",
+  "apkKey": "app-release-3.0.4+34.apk"
 }
